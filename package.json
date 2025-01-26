@@ -1,0 +1,25 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "Desktop app to get the length of a video",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djlisko01/videoinfo.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Daniel Lisko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djlisko01/videoinfo/issues"
+  },
+  "homepage": "https://github.com/djlisko01/videoinfo#readme",
+  "dependencies": {
+    "electron": "^34.0.1"
+  }
+}
